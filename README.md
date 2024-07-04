@@ -1,0 +1,3 @@
+eTender is a sophisticated online platform designed to streamline and simplify the tendering process for businesses and organizations. It enables users to post, manage, and respond to tenders in a secure and efficient manner.
+The platform leverages robust technologies such as Java for backend development, MySQL for database management, and HTML, CSS, JavaScript, and Bootstrap for a responsive and user-friendly front-end interface. 
+These technologies work together to provide a seamless and reliable tendering experience, ensuring transparency, accessibility, and ease of use for all participants.
